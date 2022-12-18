@@ -1,3 +1,3 @@
 # rsschool-cv
-https://Dormik12.github.io/rsschool-cv/cv
-https://Dormik12.github.io/rsschool-cv/
+## Mardown https://Dormik12.github.io/rsschool-cv/cv
+## HTML+CSS https://Dormik12.github.io/rsschool-cv/
